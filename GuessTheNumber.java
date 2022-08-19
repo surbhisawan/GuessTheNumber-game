@@ -13,7 +13,7 @@ public class Main {
             Your_Number = sc.nextInt();
             if(Your_Number==My_Number)
             {
-                System.out.println("Hurry... You Won");
+                System.out.println("Hurrah... You Won");
                 break;
             }
             else if(Your_Number>My_Number)
